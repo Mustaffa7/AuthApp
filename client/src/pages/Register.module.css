@@ -1,0 +1,172 @@
+.bgDiv {
+  position: absolute;
+  top: 0;
+  left: 172.27px;
+  background: linear-gradient(180deg, #0575e6, #02298a 84.79%, #021b79);
+  width: 715.73px;
+  height: 900px;
+}
+.groupIcon {
+  position: absolute;
+  top: 620px;
+  left: 207px;
+  width: 530.97px;
+  height: 583px;
+}
+.wELCOMEB,
+.yourFavouriteSite {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.yourFavouriteSite {
+  top: 60px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.groupDiv {
+  position: relative;
+  width: 204px;
+  height: 87px;
+  flex-shrink: 0;
+}
+.readMoreDiv {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.frameButton {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 30px;
+  background-color: #0575e6;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px;
+}
+.contentDiv,
+.leftContentDiv {
+  position: absolute;
+  top: 371px;
+  left: 302.94px;
+  width: 204px;
+  height: 147px;
+}
+.leftContentDiv {
+  top: 0;
+  left: -207px;
+  width: 888px;
+  height: 1203px;
+}
+.helloH1,
+.signUpToGetStarted {
+  margin: 0;
+  position: absolute;
+  left: 0;
+  font-family: inherit;
+  display: inline-block;
+}
+.helloH1 {
+  top: 0;
+  font-size: inherit;
+  font-weight: 700;
+  width: 160.57px;
+  height: 62.06px;
+}
+.signUpToGetStarted {
+  top: 66.84px;
+  font-size: var(--font-size-base);
+  font-weight: 400;
+  width: 407.61px;
+  height: 42.97px;
+}
+.titleDiv {
+  position: relative;
+  width: 407.61px;
+  height: 109.8px;
+  flex-shrink: 0;
+}
+.dOBTextField,
+.nameTextField,
+.passwordTextField {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.dOBTextField,
+.passwordTextField {
+  top: 93px;
+}
+.passwordTextField {
+  top: 344px;
+}
+.button {
+  position: absolute;
+  top: 490px;
+  left: 0;
+  cursor: pointer;
+}
+.contactTextField,
+.emailTextField,
+.passwordTextField1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 181px;
+  left: 0;
+}
+.emailTextField,
+.passwordTextField1 {
+  top: 263px;
+}
+.passwordTextField1 {
+  top: 417px;
+}
+.frameDiv1 {
+  position: relative;
+  width: 374px;
+  height: 579px;
+  flex-shrink: 0;
+}
+.rightContentDiv {
+  position: absolute;
+  top: 99px;
+  left: 865px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 60px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+}
+.registerDiv {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

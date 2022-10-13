@@ -1,0 +1,247 @@
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fafafa;
+  width: 1440px;
+  height: 1099px;
+}
+.rectangleDiv1 {
+  top: 83.26px;
+  background-color: #f0f0f0;
+  height: 129.05px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 212.31px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 1.04px;
+}
+.rectangleDiv3 {
+  top: 390.27px;
+  left: 593px;
+  width: 675.43px;
+  height: 2px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.profileH1 {
+  margin: 0;
+  position: absolute;
+  top: 135px;
+  left: 100px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 271px;
+  height: 60px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 55.16px;
+  left: 0;
+  background-color: var(--white);
+  width: 100px;
+  height: 3.12px;
+}
+.settingsDiv {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  display: inline-block;
+  width: 80px;
+  height: 31.22px;
+}
+.headerDiv {
+  position: absolute;
+  top: 24.98px;
+  left: 725px;
+  width: 100px;
+  height: 58.28px;
+  font-size: 22px;
+  color: var(--white);
+  font-family: var(--font-helvetica);
+}
+.rectangleDiv5,
+.rectangleDiv6,
+.rectangleDiv7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 50px;
+  height: 2px;
+}
+.rectangleDiv6,
+.rectangleDiv7 {
+  top: 12.01px;
+}
+.rectangleDiv7 {
+  top: 24.02px;
+}
+.header1Div,
+.linesDiv {
+  position: absolute;
+  top: 29.14px;
+  left: 30px;
+  width: 50px;
+  height: 26.02px;
+}
+.header1Div {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1099px;
+}
+.ellipseIcon,
+.ellipseIcon1 {
+  position: absolute;
+  top: 394px;
+  left: 51px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.ellipseIcon1 {
+  top: 0;
+  left: 1190px;
+  width: 50px;
+  height: 50px;
+}
+.khusanAkhmedovH2,
+.khusanAkhmedovH4 {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.khusanAkhmedovH2 {
+  top: 584px;
+  left: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.khusanAkhmedovH4 {
+  top: 14px;
+  left: 1017px;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: #a0a0a0;
+}
+.fullNameAndBio {
+  position: absolute;
+  top: 15px;
+  left: 170px;
+  width: 1240px;
+  height: 626px;
+  font-size: 28px;
+}
+.aCCOUNTSETTINGLabel,
+.bASICINFOLabel {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 120.41px;
+  height: 35.82px;
+}
+.aCCOUNTSETTINGLabel {
+  top: 298px;
+  left: 12px;
+  width: 205.74px;
+}
+.rectangleDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  top: 74.89px;
+  left: 1px;
+  background-color: var(--color-gray-200);
+  width: 754px;
+  height: 3.26px;
+}
+.rectangleDiv9 {
+  top: 753.74px;
+}
+.passwordTextField,
+.passwordTextField1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 520px;
+  left: 1px;
+}
+.passwordTextField1 {
+  top: 436px;
+  left: 0;
+}
+.contactTextField,
+.dOBTextField,
+.emailTextField,
+.nameTextField {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 356px;
+  left: 0;
+}
+.contactTextField,
+.dOBTextField,
+.nameTextField {
+  top: 197px;
+  left: 382px;
+}
+.contactTextField,
+.nameTextField {
+  left: 0;
+}
+.nameTextField {
+  top: 119.09px;
+  left: 1px;
+}
+.basicInfoGroup,
+.button {
+  position: absolute;
+  top: 604px;
+  left: 192px;
+}
+.basicInfoGroup {
+  top: 309px;
+  left: 650px;
+  width: 755px;
+  height: 757px;
+}
+.button1,
+.button2 {
+  position: absolute;
+  top: 711px;
+  left: 150px;
+}
+.button2 {
+  top: 823px;
+}
+.profileDiv {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1121px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 38px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+form {
+  width: 100%;
+}

@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+  --font-open-sans: "Open Sans";
+  --font-helvetica: Helvetica;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 18px;
+  --font-size-lg: 26px;
+
+  /* Colors */
+  --color-black: #000;
+  --white: #fff;
+  --color-gray-100: #e6e6e6;
+  --color-gray-200: #e5e5e5;
+  --color-gray-300: #333;
+}
